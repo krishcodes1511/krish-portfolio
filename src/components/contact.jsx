@@ -29,7 +29,7 @@ function Contact() {
             className='my-4'>
                 {CONTACT.phoneNo}
             </motion.p>
-            <a href="gmail:your_krishsoni982@gmail.com" className='border-b'> {CONTACT.email}</a>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=krishsoni982@gmail.com&su=Hello%20Krish&body=Just%20wanted%20to%20say%20hi!" className='border-b'> {CONTACT.email}</a>
         </div>
       
     </div>
