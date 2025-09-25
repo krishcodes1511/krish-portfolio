@@ -23,16 +23,16 @@ function Nav() {
              aria-label='lnkedIn'><FaGithub/>  </a>
              
 
-             <a href='https://www.instagram.com/'
-             target='_blank'
-             rel='noopener noreferrer'
-             aria-label='lnkedIn'><FaInstagram/> </a>
-             
+              {/* <a href='https://www.instagram.com/'
+              target='_blank'
+              rel='noopener noreferrer'
+              aria-label='lnkedIn'><FaInstagram/> </a>
+              
 
-             <a href='https://www.linkedin.com/in/your-twitter-profile'
-             target='_blank'
-             rel='noopener noreferrer'
-             aria-label='lnkedIn'><FaTwitter/> </a>
+              <a href='https://www.linkedin.com/in/your-twitter-profile'
+              target='_blank'
+              rel='noopener noreferrer'
+              aria-label='lnkedIn'><FaTwitter/> </a> */}
             
         </div>
     </nav>
