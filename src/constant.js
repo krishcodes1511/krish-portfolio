@@ -15,21 +15,21 @@ export const PROJECTS = [
     image: project1,
     description:
       "A modern, single-page web application for creating, managing, and tracking invoices for clients. The application is built with React for a dynamic user interface, uses Firebase for authentication and data storage, and is styled to provide a professional and intuitive user experience.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "CSS", "React.js", "Firebse", "Java script"],
   },
   {
     title: "Netflix-clone",
     image: project2,
     description:
       "A web application built with React.js that replicates the core user interface and features of Netflix. The project demonstrates a strong grasp of frontend fundamentals by fetching real-time movie data through the TMDB API and implementing secure user authentication with Firebase. While the project is not responsive and is optimized for a desktop viewing experience, it serves as a robust showcase of React component design, API integration, and user session management.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["HTML", "CSS", "Java script",  "React js", "Firebase"],
   },
   
 ];
 
 export const CONTACT = {
   address: "Rohihi, New Delhi-110085 ",
-  phoneNo: "+91 8920-734-233 ",
+  phoneNo: "+91 8920-734-233",
   email: "krishsoni982@gmail.com",
 };
 export const EXPERIENCES = [
