@@ -52,7 +52,7 @@ function Hero() {
                 
                 <motion.span
                 variants={childVariants} 
-                className='bg-gradient-to-r from-stone-300 to-stone-800 bg-clip-text text-3xl tracking-tighter text-transparent'>
+                className='bg-gradient-to-r from-stone-300 to-stone-100 bg-clip-text text-3xl tracking-tighter text-transparent'>
                     Full Stack Developer
                 </motion.span>
                 <motion.p 
