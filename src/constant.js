@@ -24,6 +24,13 @@ export const PROJECTS = [
       "A web application built with React.js that replicates the core user interface and features of Netflix. The project demonstrates a strong grasp of frontend fundamentals by fetching real-time movie data through the TMDB API and implementing secure user authentication with Firebase. While the project is not responsive and is optimized for a desktop viewing experience, it serves as a robust showcase of React component design, API integration, and user session management.",
     technologies: ["HTML", "CSS", "Java script",  "React js", "Firebase"],
   },
+  {
+    title: "E-commerce",
+    image: project3,
+    description:
+      "A custom-built ecommerce platform designed with modern frontend and backend technologies. The app features a responsive UI, dynamic product listings, secure authentication, and integrated payment gateway. Built using React.js, TailwindCSS, Firebase, and Redux, it includes.",
+    technologies: ["HTML", "CSS", "Java script",  "React js", "Firebase", "Redux"],
+  }
   
 ];
 
